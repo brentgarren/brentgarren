@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning hacking and python
 
-- 📫 How to reach me brentgarren@YAHOO.COM
+- 📫 How to reach me elzrath.bg@gmail.com
 
 <!---
 brentgarren/brentgarren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
