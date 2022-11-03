@@ -4,7 +4,7 @@
 
 - Data Structures and Algorithms Practice
   - 
-- Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)
+- 
   ->
 - PowerShell
   - 
