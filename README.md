@@ -1,8 +1,6 @@
 <h1>Hi, I'm Brent! <br/><a href="https://github.com/brentgarren">Programmer</a>, <a href="https://www.linkedin.com/in/brent-garren//">Aspiring Security Analyst</a>, <a 
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-<h2> 🤳 Connect with me:</h2>
+<h2>Development Projects:</h2>
 
 
 
