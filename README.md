@@ -2,15 +2,15 @@
 
 <h2>Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- Data Structures and Algorithms Practice
   - 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)
   ->
-- <b>PowerShell</b>
+- PowerShell
   - 
-- <b>C# (.NET Desktop Applications)</b>
+- 
   -
-- <b>Python</b>
+- Python
   - 
 [<img align="left" alt="Brentgarren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
