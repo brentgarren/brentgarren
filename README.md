@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brent! <br/><a href="https://github.com/brentgarren"></a>, <a href="https://www.linkedin.com/in/brent-garren//">Aspiring Security Analyst</a>, <a 
-
-<h2>Development Projects:</h2>
+<p>
+<h2>Projects:</h2>
 
 - Data Structures and Algorithms Practice
   - 
