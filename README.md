@@ -10,7 +10,7 @@
   - 
 - 
   -
-- Bots
+- Bots <p>
   <a href="https://www.linkedin.com/in/brent-garren//">Lord Ratty Discord Bot</a>, <a 
 <p>
   
