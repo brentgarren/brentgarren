@@ -2,15 +2,15 @@
 <p>
 <h2>Projects:</h2>
 
-- Data Structures and Algorithms Practice
+- ###
   - 
 - 
   ->
-- PowerShell
+- ###
   - 
 - 
   -
-- Python
+- ###
   - 
 [<img align="left" alt="Brentgarren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
