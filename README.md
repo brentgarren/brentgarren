@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brent! <br/><a href="https://github.com/brentgarren"></a> <a href="https://www.linkedin.com/in/brent-garren//">Aspiring Security Analyst</a>, <a 
+<h1>Hi, I'm Brent! <br/><a href="https://github.com/brentgarren"></a> <a href="https://www.linkedin.com/in/brent-garren//">Aspiring SOC Analyst</a>, <a 
 <p>
 <h2>Projects:</h2>
 
