@@ -3,14 +3,15 @@
 <h2>Projects:</h2>
 
 <a href="https://github.com/brentgarren/TCP_Client-Server/blob/main/README.md">TCP Client and Listener Server</a>,
- 
-  - 
-- 
-  ->
-- ###
-  - 
-- 
-  -
+
+
+
+
+
+
+
+
+
 <h2>Bots</h2> <p>
   <a href="https://github.com/brentgarren/Lord-Ratty-Bot">Lord Ratty Discord Bot</a>,
 <p>
@@ -18,6 +19,9 @@
   <a href="https://peps.python.org/pep-0008">Python Formatting</a>,
   <p><p>
   
+ 
+ 
+ 
   
 [<img align="left" alt="Brentgarren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
