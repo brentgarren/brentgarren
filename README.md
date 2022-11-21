@@ -4,15 +4,16 @@
 
 <a href="https://github.com/brentgarren/TryHackMe/blob/main/README.md">	TryHackMe Selfstudy</a>
 
+
+
+
+
+
+
+
+<h2> Python Development
+   
 <a href="https://github.com/brentgarren/TCP_Client-Server/blob/main/README.md">	TCP Client and Listener Server</a>
-
-
-
-
-
-
-
-
 
 <h2>Bots</h2> 
    <a href="https://github.com/brentgarren/Lord-Ratty-Bot">Lord Ratty Discord Bot</a>,
