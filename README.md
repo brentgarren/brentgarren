@@ -2,7 +2,7 @@
 <p>
 <h2>Certifications:</h2>
 
-A+ 1101 Completed
+Comptia A+ 1101 Completed
 
 <h2>Projects:</h2>
 
