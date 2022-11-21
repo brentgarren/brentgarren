@@ -11,7 +11,7 @@
 - 
   -
 - Bots <p>
-  <a href="[https://github.com/brentgarren/Lord-Ratty-Bot]">Lord Ratty Discord Bot</a>,
+  <a href="https://github.com/brentgarren/Lord-Ratty-Bot">Lord Ratty Discord Bot</a>,
 <p>
  - Useful Python Links <p>
   
