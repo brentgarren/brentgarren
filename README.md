@@ -2,7 +2,7 @@
 <p>
 <h2>Projects:</h2>
 
-- <a href="https://github.com/brentgarren/TCP_Client-Server/blob/main/README.md"><h2>TCP Client/Listener Server</h2>
+ <a href="https://github.com/brentgarren/TCP_Client-Server/blob/main/README.md"><h2>TCP Client/Listener Server</h2>
   - 
 - 
   ->
