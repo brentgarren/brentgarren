@@ -2,7 +2,7 @@
 <p>
 <h2>Certifications:</h2>
 
-A+ 1101 Completed
+A+ 1101 Completed October 24ths
 
 <h2>Projects:</h2>
 
