@@ -10,7 +10,7 @@
   - 
 - 
   -
-- <h2>Bots</h2> <p>
+- <h2>Bots</h2> <br>
   <a href="https://github.com/brentgarren/Lord-Ratty-Bot">Lord Ratty Discord Bot</a>,
 <p>
 <h2> Useful Python Links</h2> <p>
