@@ -17,7 +17,7 @@
   <a href="https://peps.python.org/pep-0008">Python Formatting</a>,
   
 [<img align="left" alt="Brentgarren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<p>
 [linkedin]: https://www.linkedin.com/in/brent-garren/
 
 <!--
