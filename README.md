@@ -1,4 +1,4 @@
-<h1> <br/> <a href="https://www.linkedin.com/in/brent-garren//">Aspiring SOC Analyst</h1></a> <a 
+<h1> <a href="https://www.linkedin.com/in/brent-garren//">Aspiring SOC Analyst</h1></a> <a 
 <p>
 <h2>Projects:</h2>
 
