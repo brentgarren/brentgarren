@@ -16,10 +16,10 @@ Comptia A+ 1101 Completed
 
 
 <h2> Python Development</h2>
-   
+<a href="https://github.com/brentgarren/bhp/blob/master/netcat.py">	NetCat</a>
 <a href="https://github.com/brentgarren/TCP_Client-Server/blob/main/README.md">	TCP Client and Listener Server</a>
 
-<a href="https://github.com/brentgarren/bhp/blob/master/netcat.py">	NetCat</a>
+
 
 <h2>Bots</h2> 
    <a href="https://github.com/brentgarren/Lord-Ratty-Bot">Lord Ratty Discord Bot</a>,
