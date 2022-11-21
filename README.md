@@ -10,10 +10,10 @@
   - 
 - 
   -
-- Bots <p>
+- <h2>Bots</h2> <p>
   <a href="https://github.com/brentgarren/Lord-Ratty-Bot">Lord Ratty Discord Bot</a>,
 <p>
- - Useful Python Links <p>
+<h2> Useful Python Links</h2> <p>
   
   
 [<img align="left" alt="Brentgarren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
