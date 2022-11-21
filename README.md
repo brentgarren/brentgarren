@@ -1,5 +1,9 @@
 <h1> <a href="https://www.linkedin.com/in/brent-garren//">Aspiring SOC Analyst</h1></a> <a 
 <p>
+<h2>Certifications:</h2>
+
+A+ 1101 Completed
+
 <h2>Projects:</h2>
 
 <a href="https://github.com/brentgarren/TryHackMe/blob/main/README.md">	TryHackMe Selfstudy</a>
