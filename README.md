@@ -12,8 +12,8 @@
 
 
 
-<h2>Bots</h2> <p>
-    <a href="https://github.com/brentgarren/Lord-Ratty-Bot">Lord Ratty Discord Bot</a>,
+<h2>Bots</h2> 
+     <a href="https://github.com/brentgarren/Lord-Ratty-Bot">Lord Ratty Discord Bot</a>,
 <p>
 <h2> Useful Python Links</h2>
   <a href="https://peps.python.org/pep-0008">Python Formatting</a>,
