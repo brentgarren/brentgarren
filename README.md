@@ -11,8 +11,10 @@
 - 
   -
 - Bots <p>
-  <a href="https://www.linkedin.com/in/brent-garren//">Lord Ratty Discord Bot</a>,
+  <a href="[https://github.com/brentgarren/Lord-Ratty-Bot">Lord Ratty Discord Bot</a>,
 <p>
+ - Useful Python Links <p>
+  
   
 [<img align="left" alt="Brentgarren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
