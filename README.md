@@ -3,7 +3,7 @@
 <h2>Certifications:</h2>
 
 <b>Comptia A+ Certified</b><br>
-issued: Novemeber 2022<br>
+issued: November 2022<br>
 expires: November 2025<br>
 Credential ID: KCL692651FFQQ05L<br>
 
