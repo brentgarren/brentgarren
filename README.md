@@ -7,7 +7,7 @@ issued: Novemeber 2022<br>
 expires: November 2025<br>
 Credential ID: KCL692651FFQQ05L<br>
 
-Network+ - In Progress
+<b>Network+ - In Progress</b>
 
 
 <h2>Projects:</h2>
