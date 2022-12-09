@@ -12,8 +12,9 @@ Credential ID: KCL692651FFQQ05L<br>
 
 <h2>Projects:</h2>
 
-<a href="https://github.com/brentgarren/TryHackMe/blob/main/README.md">	TryHackMe Selfstudy</a>
+<a href="https://github.com/brentgarren/TryHackMe/blob/main/README.md">	TryHackMe Selfstudy</a> <br>
 
+<a href="https://github.com/brentgarren/Azure-Siem-">	Setting up a SIEM in Azure</a>
 
 
 
