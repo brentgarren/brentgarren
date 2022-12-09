@@ -8,8 +8,10 @@ expires: November 2025<br>
 Credential ID: KCL692651FFQQ05L<br>
 
 <b>Network+ - In Progress</b>
-
-
+<b>ISC2 Certified in Cybersecurity - In Progress</b>
+<b>AZ-900 - In Progress</b>
+<b>SC-900 - In Progress</b>
+<b>SC-200 - In Progress</b>
 <h2>Projects:</h2>
 
 <a href="https://github.com/brentgarren/TryHackMe/blob/main/README.md">	TryHackMe Selfstudy</a> <br>
