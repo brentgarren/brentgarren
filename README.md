@@ -8,6 +8,7 @@ expires: November 2025<br>
 Credential ID: KCL692651FFQQ05L<br>
 
 <b>Network+ - In Progress</b>
+<br>
 <b>ISC2 Certified in Cybersecurity - In Progress</b>
 <br>
 <b>AZ-900 - In Progress</b>
