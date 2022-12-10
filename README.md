@@ -21,8 +21,9 @@ Credential ID: KCL692651FFQQ05L<br>
 
 <a href="https://github.com/brentgarren/TryHackMe/blob/main/README.md">	TryHackMe Selfstudy</a> <br>
 
-<a href="https://github.com/brentgarren/Azure-Learning">Azure Learning</a>
+<a href="https://github.com/brentgarren/Azure-Learning">Azure Learning</a> <br>
 
+<a href="https://github.com/brentgarren/Hacking-Manual">Hacking Manual</a>
 
 
 
