@@ -44,6 +44,13 @@ Credential ID: KCL692651FFQQ05L<br>
    <a href="https://peps.python.org/pep-0008">Python Formatting</a>,
   <p><p>
   
+  <h2>Bots</h2> 
+   <a href="https://github.com/brentgarren/Lord-Ratty-Bot">Lord Ratty Discord Bot</a>,
+<p>
+<h2> Useful Links</h2>
+   <a href="https://github.com/meirwah/awesome-incident-response">Meirwahs-Awesome Incident Response Tools</a>,
+  <p><p>
+  
  
  
  
