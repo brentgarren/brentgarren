@@ -55,10 +55,7 @@ Credential ID: KCL692651FFQQ05L<br>
  <br> <br><br><br><br>
 [<img align="left" alt="Brentgarren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
    
-  <Br> <br><br>
-     
-     
-<h2>Notes:</h2>
+ 
 [linkedin]: https://www.linkedin.com/in/brent-garren/
 
 <!--
