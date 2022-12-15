@@ -51,7 +51,8 @@ Credential ID: KCL692651FFQQ05L<br>
   
  
  <h2>Notes:</h2> 
- <a href="https://github.com/meirwah/awesome-incident-response">Vocab</a>
+ <a href="https://github.com/brentgarren/Vocabulary">Vocab</a>
+ 
  <br> <br><br><br><br>
 [<img align="left" alt="Brentgarren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
    
