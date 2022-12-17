@@ -14,8 +14,6 @@ Credential ID: N/A
 
 <b>Network+ - In Progress</b>
 <br>
-
-<br>
 <b>AZ-900 - In Progress</b>
 <br>
 <b>SC-900 - In Progress</b>
