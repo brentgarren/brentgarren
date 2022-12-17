@@ -5,7 +5,7 @@
 <b>Comptia A+ Certified</b><br>
 issued: November 2022<br>
 expires: November 2025<br>
-Credential ID: KCL692651FFQQ05L<br>
+Credential ID: KCL692651FFQQ05L<br> <br>
 <b>ISC2 Certified in Cybersecurity Certified</b><br>
 Issues: December 2022<br>
 expires: December 2025<br>
