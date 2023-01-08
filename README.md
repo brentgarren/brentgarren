@@ -7,9 +7,9 @@ issued: November 2022<br>
 expires: November 2025<br>
 Credential ID: KCL692651FFQQ05L<br> <br>
 <b>ISC2 Certified in Cybersecurity Certified</b><br>
-issued: December 2022<br>
-expires: December 2025<br>
-Credential ID: N/A
+issued: January 2023<br>
+expires: January 2026<br>
+Credential ID: 1246138
 
 
 <b>Network+ - In Progress</b>
