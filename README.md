@@ -51,7 +51,13 @@ Credential ID: 1246138
 <h2> Useful Links</h2>
    <a href="https://github.com/meirwah/awesome-incident-response">Meirwahs-Awesome Incident Response Tools</a>,
   <p><p>
-  
+ 
+ <h2>Webinar Notes</h2> 
+   <a href="https://github.com/brentgarren/Webinar-Notes">Webinar Notes</a>,
+<p>
+<h2> Useful Python Links</h2>
+   <a href="https://peps.python.org/pep-0008">Python Formatting</a>,
+  <p><p>
  
  <h2>Notes:</h2> 
  <a href="https://github.com/brentgarren/Vocabulary">Vocab</a>
