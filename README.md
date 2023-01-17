@@ -53,7 +53,7 @@ Credential ID: 1246138
   <p><p>
  
  <h2>Webinar Notes</h2> 
-   <a href="https://github.com/brentgarren/Webinar-Notes">Webinar Notes</a>
+   <a href="https://github.com/brentgarren/Webinar-Notes">ISC2 Webinar Notes</a>
 <p>
 <h2> Useful Python Links</h2>
    <a href="https://peps.python.org/pep-0008">Python Formatting</a>,
