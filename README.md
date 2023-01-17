@@ -12,7 +12,7 @@ expires: January 2026<br>
 Credential ID: 1246138
 
 
-<b>Network+ - In Progress</b>
+<b>Securityk+ - In Progress</b>
 <br>
 <b>AZ-900 - In Progress</b>
 <br>
