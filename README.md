@@ -34,6 +34,7 @@ Credential ID: 1246138
 
 
 <h2> Python Development</h2>
+<a href="https://github.com/brentgarren/Python-Basics">	Python Basics</a>
 <a href="https://github.com/brentgarren/bhp/blob/master/netcat.py">	NetCat</a>
 
 <a href="https://github.com/brentgarren/TCP_Client-Server/blob/main/README.md">	TCP Client and Listener Server</a>
