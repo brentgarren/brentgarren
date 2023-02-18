@@ -50,8 +50,9 @@ Credential ID: 1246138
   
  
 <h2> Useful Links</h2>
-   <a href="https://github.com/meirwah/awesome-incident-response">Meirwahs-Awesome Incident Response Tools</a>,
-   <a href="https://github.com/brentgarren/Utilities">Utilities</a>,
+   <a href="https://github.com/meirwah/awesome-incident-response">Meirwahs-Awesome Incident Response Tools</a>
+   
+   <a href="https://github.com/brentgarren/Utilities">Utilities</a>
   <p><p>
  
  <h2>Webinar Notes</h2> 
