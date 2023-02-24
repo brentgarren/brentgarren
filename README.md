@@ -53,6 +53,9 @@ Credential ID: 1246138
    <a href="https://github.com/meirwah/awesome-incident-response">Meirwahs-Awesome Incident Response Tools</a>
    
    <a href="https://github.com/brentgarren/Utilities">Utilities</a>
+   
+   <a href="https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/index.html">Red Hat Enterprise Linux Security Guide</a>
+   
   <p><p>
  
  <h2>Webinar Notes</h2> 
