@@ -12,7 +12,7 @@ Credential ID: KCL692651FFQQ05L<br> <br>
 <b>ISC2 Certified in Cybersecurity Certified</b><br>
 issued: January 2023<br>
 expires: January 2026<br>
-Credential ID: 1246138
+Credential ID: 1246138<br><br>
 
 
 
