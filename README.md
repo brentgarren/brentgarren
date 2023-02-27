@@ -1,7 +1,9 @@
 <h1> <a href="https://www.linkedin.com/in/brent-garren//">Aspiring SOC Analyst</h1></a> <a 
 <p>
 <h2>Certifications:</h2>
-
+<b>Comptia Security+ Certified</b><br>
+issued: February 2023<br>
+expires: February 2026<br>
 <b>Comptia A+ Certified</b><br>
 issued: November 2022<br>
 expires: November 2025<br>
