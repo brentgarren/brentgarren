@@ -15,7 +15,7 @@ expires: January 2026<br>
 Credential ID: 1246138
 
 
-<b>Security+ - In Progress</b>
+
 <br>
 <b>AZ-900 - In Progress</b>
 <br>
