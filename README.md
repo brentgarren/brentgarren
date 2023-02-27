@@ -4,6 +4,7 @@
 <b>Comptia Security+ Certified</b><br>
 issued: February 2023<br>
 expires: February 2026<br>
+Credential ID : processing <br><br>
 <b>Comptia A+ Certified</b><br>
 issued: November 2022<br>
 expires: November 2025<br>
