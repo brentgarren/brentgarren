@@ -7,7 +7,7 @@ expires: February 2026<br>
 Credential ID: NS79VGHYE2FE1LCZ <br><br>
 <b>CompTIA A+ Certified</b><br>
 issued: November 2022<br>
-expires: November 2025<br>
+expires: February 2026<br>
 Credential ID: KCL692651FFQQ05L<br> <br>
 <b>ISC2 Certified in Cybersecurity Certified</b><br>
 issued: January 2023<br>
